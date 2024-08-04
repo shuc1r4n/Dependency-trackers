@@ -47,7 +47,7 @@ hashID==3.1.4
 hpack==4.0.0
 html5lib==1.1
 hyperframe==6.0.0
-idna==2.10
+idna==3.7
 impacket==0.9.22
 importlib-metadata==1.6.0
 invoke==1.4.1
