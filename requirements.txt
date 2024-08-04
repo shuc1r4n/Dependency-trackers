@@ -138,7 +138,7 @@ sqlparse==0.4.1
 stegcracker==2.1.0
 terminator==2.1.0
 tld==0.11.11
-tornado==6.1
+tornado==6.4.1
 traitlets==5.0.5
 urllib3==1.26.5
 urwid==2.1.2
